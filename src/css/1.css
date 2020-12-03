@@ -1,0 +1,14 @@
+li{
+    list-style: none;
+}
+
+::placeholder{
+    color: red;
+}
+
+#box{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    background: url('../images/1.jpg');
+}
